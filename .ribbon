@@ -1,0 +1,14 @@
+ize: 1.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: white;
+  background: #2774AE;
+  display: inline-block;
+  padding: 8px 4px 2px 4px;
+  margin-bottom: 2px;
+  position: relative;
+
+  &.first { padding-left: 8px; }
+
+  &.last { padding-right: 8px; }
+}
